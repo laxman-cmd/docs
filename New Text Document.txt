@@ -1,0 +1,22 @@
+Contrary to what’s said online sometimes, becoming a competent JavaScript developer is not easy. It requires hard work, dedication, effort, and time.
+
+The same goes for being one. Our world is dynamic and constantly changing, and we have to keep up.
+
+i recommend reading the second-edition books in this order:
+
+Get Started
+Scope & Closures
+Objects & Classes
+Types & Grammar
+Sync & Async
+ES.Next & Beyond
+
+I recommend reading the second edition books in this order:
+
+Get Started | Buy on Leanpub | Buy on Amazon
+Scope & Closures | Buy on Leanpub | Buy on Amazon
+Objects & Classes (draft stable)
+Types & Grammar (draft in progress)
+Sync & Async (not yet started)
+ES.Next & Beyond (not yet started)
+If you're looking for the previous first edition books, they can be found here.
